@@ -2,8 +2,7 @@
 
  ---
 
-
-  ![](./Images/output.png)
+![](./Images/runningapp.gif)
 
   ---
 
